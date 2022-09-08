@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/yash raj/heroku.com/deploy?template=https://github.com/yash raj/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/yashraj/heroku.com/deploy?template=https://github.com/yashraj/File-To-Link)
 
 
 🚀Features<p>
